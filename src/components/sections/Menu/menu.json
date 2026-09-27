@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "id": "espresso",
+      "name": "Espresso",
+      "description": "Café solo, intenso y aromático.",
+      "category": "cafe",
+      "image": "/images/menu1.jpg",
+      "price": 15000,
+      "oldPrice": 20000
+    },
+    {
+      "id": "americano",
+      "name": "Americano",
+      "description": "Espresso alargado con agua caliente.",
+      "category": "cafe",
+      "image": "/images/menu2.jpg",
+      "price": 15000,
+      "oldPrice": 20000
+    },
+    {
+      "id": "cappuccino",
+      "name": "Capuchino",
+      "description": "Espresso con leche vaporizada y espuma cremosa.",
+      "category": "cafe",
+      "image": "/images/menu3.jpg",
+      "price": 18000,
+      "oldPrice": 24000
+    },
+    {
+      "id": "latte",
+      "name": "Latte",
+      "description": "Café suave con abundante leche.",
+      "category": "cafe",
+      "image": "/images/menu4.jpg",
+      "price": 18000,
+      "oldPrice": 24000
+    },
+    {
+      "id": "flat-white",
+      "name": "Flat White",
+      "description": "Doble shot con microespuma sedosa.",
+      "category": "cafe",
+      "image": "/images/menu5.jpg",
+      "price": 20000,
+      "oldPrice": 26000
+    },
+    {
+      "id": "mocha",
+      "name": "Moca",
+      "description": "Espresso con chocolate y leche vaporizada.",
+      "category": "cafe",
+      "image": "/images/menu6.jpg",
+      "price": 22000,
+      "oldPrice": 28000
+    },
+    {
+      "id": "medialuna",
+      "name": "Medialuna",
+      "description": "Recién horneada, mantecosa y tierna.",
+      "category": "comida",
+      "image": "/images/menu7.jpg",
+      "price": 5000,
+      "oldPrice": 7000
+    },
+    {
+      "id": "mbeju",
+      "name": "Mbejú",
+      "description": "Torta de almidón y queso, típica paraguaya.",
+      "category": "comida",
+      "image": "/images/menu8.jpg",
+      "price": 8000,
+      "oldPrice": 10000
+    },
+    {
+      "id": "empanada",
+      "name": "Empanada",
+      "description": "De carne, pollo o queso. Frita al momento.",
+      "category": "comida",
+      "image": "/images/menu9.jpg",
+      "price": 7000,
+      "oldPrice": 9000
+    },
+    {
+      "id": "mixto",
+      "name": "Mixto",
+      "description": "Sándwich de jamón y queso caliente.",
+      "category": "comida",
+      "image": "/images/menu10.jpg",
+      "price": 12000,
+      "oldPrice": 15000
+    },
+    {
+      "id": "chipa",
+      "name": "Chipa",
+      "description": "Chipa almidón tradicional, recién salida del horno.",
+      "category": "comida",
+      "image": "/images/menu11.jpg",
+      "price": 5000,
+      "oldPrice": 7000
+    }
+  ]
+}
